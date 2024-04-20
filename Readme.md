@@ -2,7 +2,8 @@
 
 This project displays statistics on wine data, focusing on flavonoids and gamma calculations. It utilizes React for the front-end.
 
-## ScreenShot - [Tables](https://github.com/Aneeshh18/manufac-sde/assets/88325646/cb05fb4a-98af-46c1-b823-6001ca8b0c0d)
+## ScreenShot -
+![Tables](https://github.com/Aneeshh18/manufac-sde/assets/88325646/cb05fb4a-98af-46c1-b823-6001ca8b0c0d)
 
 ## Prerequisites
 
