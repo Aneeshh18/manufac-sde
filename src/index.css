@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.section-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.custom-table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid #ddd;
+}
+
+.header-cell,
+.data-cell,
+.measure-cell {
+  padding: 10px;
+  text-align: left;
+}
+
+.header-cell {
+  background-color: #f2f2f2;
+  font-weight: bold;
+  border-bottom: 1px solid #ddd;
+}
+
+.row:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.row:hover {
+  background-color: #ddd;
+}
